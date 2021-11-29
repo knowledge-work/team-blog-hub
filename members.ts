@@ -93,7 +93,7 @@ export const members: Member[] = [
     name: "sadakoa",
     role: "Designer",
     bio: "",
-    avatarSrc: "/avatars/sadakoa.png",
+    avatarSrc: "/avatars/sadakoa.jpg",
     sources: ["https://note.com/sadako_a_/rss"],
     includeUrlRegex: "",
     twitterUsername: "sadako_a_",
