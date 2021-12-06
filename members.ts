@@ -113,7 +113,7 @@ export const members: Member[] = [
     role: "Business",
     bio: "",
     avatarSrc: "/avatars/nannichi.jpg",
-    sources: ["https://note.com/nannichi/rss"],
+    sources: ["https://note.com/masatoshi_228/rss"],
     includeUrlRegex: "",
     twitterUsername: "",
     githubUsername: "",
