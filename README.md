@@ -1,5 +1,7 @@
 # Knowledge Work Team Blog Hub
 
+https://blog-hub.kwork.studio
+
 ## Development
 
 ```bash
@@ -7,6 +9,11 @@ $ yarn install
 $ yarn build
 $ yarn dev
 ```
+
+## Deploy
+
+GitHub に PR で Preview Deploy
+PR を master にマージで Production Deploy
 
 ## Add members
 
