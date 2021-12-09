@@ -6,7 +6,7 @@ export const config = {
   },
   siteRoot:
     process.env.NODE_ENV === 'production'
-      ? 'https://team-blog-hub.vercel.app'
+      ? 'https://blog-hub.kwork.studio'
       : 'http://localhost:5000',
   headerLinks: [
     {

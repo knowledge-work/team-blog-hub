@@ -105,7 +105,7 @@ export const members: Member[] = [
     id: 'nannichi',
     name: '南日政俊',
     role: 'BizDev',
-    bio: 'BizDev',
+    bio: 'Business Development',
     avatarSrc: '/avatars/nannichi.jpg',
     sources: ['https://note.com/masatoshi_228/rss'],
     includeUrlRegex: '',
