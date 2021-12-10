@@ -13,6 +13,15 @@
   font-size: 1.2rem;
   color: var(--color-base-text-lighter);
 }
+.home-hero__disclaimer {
+  margin-top: 0.4rem;
+  font-size: 0.8rem;
+  color: var(--color-base-text-lighter);
+}
+.home-hero__disclaimer::before {
+  content: '※';
+  margin-right: 4px;
+}
 
 .home-section-title-container {
   display: flex;
