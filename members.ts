@@ -113,4 +113,18 @@ export const members: Member[] = [
     githubUsername: '',
     websiteUrl: '',
   },
+  {
+    id: 'yackrru',
+    name: 'yackrru',
+    role: 'Backend',
+    bio: 'Backend Engineer',
+    avatarSrc: '/avatars/yackrru.jpg',
+    sources: [
+      'https://qiita.com/yackrru/feed',
+    ],
+    includeUrlRegex: '',
+    twitterUsername: 'yackrru',
+    githubUsername: 'yackrru',
+    websiteUrl: '',
+  },
 ]
