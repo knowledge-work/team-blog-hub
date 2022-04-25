@@ -83,7 +83,7 @@ export const members: Member[] = [
     role: 'Frontend',
     bio: 'Frontend Engineer',
     avatarSrc: '/avatars/aoshi.png',
-    sources: ['https://deepblue-will.hatenablog.com/feed'],
+    sources: ['https://note.com/deepblue_will/rss', 'https://zenn.dev/deepblue_will/feed'],
     includeUrlRegex: '',
     twitterUsername: 'deepblue_will',
     githubUsername: 'deepblue-will',
