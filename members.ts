@@ -66,18 +66,6 @@ export const members: Member[] = [
     websiteUrl: '',
   },
   {
-    id: 'tom',
-    name: 'tom',
-    role: 'Backend',
-    bio: 'Backend Engineer',
-    avatarSrc: '/avatars/tom.jpg',
-    sources: ['https://note.com/_tomh/rss'],
-    includeUrlRegex: '',
-    twitterUsername: 'tomoya55',
-    githubUsername: 'tomoya55',
-    websiteUrl: '',
-  },
-  {
     id: 'aoshi',
     name: 'aoshi',
     role: 'Frontend',
