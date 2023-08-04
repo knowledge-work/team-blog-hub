@@ -1,23 +1,6 @@
-# Knowledge Work Team Blog Hub
+# Knowledge Work Team Blog Hub (Archived)
 
-https://blog-hub.kwork.studio
-
-## Development
-
-```bash
-$ yarn install
-$ yarn build
-$ yarn dev
-```
-
-## Deploy
-
-GitHub に PR で Preview Deploy
-PR を master にマージで Production Deploy
-
-## Add members
-
-- `/members.ts` に自分の記述を足して PR ください！
+Our blog has been moved here: https://note.com/knowledgework/
 
 ## Thanks
 
